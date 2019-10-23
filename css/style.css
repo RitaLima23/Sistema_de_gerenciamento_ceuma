@@ -4,8 +4,9 @@
 }
 
 .btn{
-	bottom:-90px; 
-	right:120px;
+	bottom:-30px; 
+	right:-15px;
+
 }
 
 .frase1{
@@ -53,4 +54,14 @@ body{
 .input-field.col label{
 	color: white;
 	font-size:20px;
+}
+
+.page-footer {
+    padding-top: 20px;
+    color: #fff;
+    background-color: #00BFFF;
+    position: absolute;
+    bottom: -20px;
+    width: 100%;
+
 }
