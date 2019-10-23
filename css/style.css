@@ -1,0 +1,56 @@
+.brand-logo{
+	right:1130px; 
+	top: -45px;
+}
+
+.btn{
+	bottom:-90px; 
+	right:120px;
+}
+
+.frase1{
+    font-size: 20px; 
+    position: center;  
+}
+
+strong {
+    font-weight: 480;
+}
+
+body{
+	background-image: linear-gradient(to right, rgba(0,0, 0, 0.4), rgba(0, 0, 0, 0.4)),url('../img/ceuma.jpg');
+	background-position: top center;
+	color: black;
+
+}
+
+.menu, .menu1{
+	background-image: url('../img/blue.jpg');
+	background-position: ;
+}
+
+
+  
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #87CEEB;
+  color: white;
+  text-align: center;
+}
+
+.btn2{
+	bottom:10px; 
+	right:-600px;
+}
+
+.input-field>label {
+	color: black;
+}
+
+.input-field.col label{
+	color: white;
+	font-size:20px;
+}
